@@ -45,6 +45,7 @@ hr{
 }
 article{
     text-align: center;
+    font-size: 25px;
 }
 a:hover{
     color:crimson;
