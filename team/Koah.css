@@ -23,8 +23,7 @@ main{
 img{
     width: 250px;
     height: 250px;
-    border-radius: 25px;
-}
+    border: 10px solid rgb(80, 80, 80);}
 p{
     margin-left: 15%;
     margin-right: 15%;

@@ -128,7 +128,7 @@ If you are looking at this code you are probably cheating
                                                           /
                                                           |
                                                         OOOOOO
-                                                      Oo      OO
+                                                      OO      OO
                                                       O        O
                                                       OO      OO
                                                        OOOOOOO
