@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Word Generator</title>
+    <script src="website.js"></script>
+    <link href="website.css" rel="stylesheet">
+    <h1 class="title">Random Word Generator</h1>
+</head>
+<body>
+    <main>
+        <article>Number of Letters in the Word (fake words)</article>
+        <hr>
+        <span>
+                <button onclick="threeLetter()">3</button>
+                <button onclick="fourLetter()">4</button>
+                <button onclick="fiveLetter()">5</button>
+                <button onclick="sixLetter()">6</button>
+                <button onclick="sevenLetter()">7</button>
+        </span>
+         <hr>
+        <article>
+         <p id="result"></p>
+        </article>
+         <hr>
+        <article>Number of letters in the Word (real words)</article>
+        <span>
+                <button onclick="threeWord()">3</button>
+                 <button onclick="fourWord()">4</button>
+                 <button onclick="fiveWord()">5</button>
+                 <button onclick="sixWord()">6</button>
+                <button onclick="sevenWord()">7</button>
+        </span>    
+         <hr>
+        <article>
+            <p id="word"></p>
+        </article>
+        </main>
+</body>
+</html>
