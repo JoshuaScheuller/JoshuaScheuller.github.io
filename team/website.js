@@ -113,3 +113,23 @@ function generateRandomSevenLetterWord(){
     const randomElement = sevenLetterWords[Math.floor(Math.random() * sevenLetterWords.length)];
     return randomElement
 }
+/*
+If you are looking at this code you are probably cheating
+*/
+/*
+                                                            |
+                                                            \
+                                                             |
+                                                             /
+                                                            /
+                                                           /
+                                                           |
+                                                           /
+                                                          /
+                                                          |
+                                                        OOOOOO
+                                                      Oo      OO
+                                                      O        O
+                                                      OO      OO
+                                                       OOOOOOO
+*/                                              
